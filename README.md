@@ -1,3 +1,5 @@
+# Sample TODOs React project with Reduxjs toolkit, React Redux
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
